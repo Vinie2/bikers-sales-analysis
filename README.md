@@ -18,4 +18,4 @@ This project analyzes customer demographic data to understand purchasing behavio
 - Purchase Analysis by Income
 - Demographic Breakdown
 - Interactive Filters
-[Dashboard} Screenshot 2026-02-27 231621.png
+[Dashboard} ![Dashboard Screenshot](https://github.com/Vinie2/bikers-sales-analysis/blob/ae6dddb1402e54c613d089db51756ff94c4110bb/Screenshot%202026-02-27%20231621.png?raw=true)
