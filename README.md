@@ -18,3 +18,4 @@ This project analyzes customer demographic data to understand purchasing behavio
 - Purchase Analysis by Income
 - Demographic Breakdown
 - Interactive Filters
+[Dashboard} Screenshot 2026-02-27 231621.png
